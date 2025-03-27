@@ -19,4 +19,4 @@ let arr = [
             }
         }
     }
-    console.log(result)
+    console.log(result) // output 5 4 3 2 1 6 7 8 9 1 6 4 5 2 3 7 8 9 1 2 
